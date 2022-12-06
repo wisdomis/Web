@@ -163,4 +163,68 @@ input#img-4:checked ~ .nav-dots label#img-dot-4,
 input#img-5:checked ~ .nav-dots label#img-dot-5,
 input#img-6:checked ~ .nav-dots label#img-dot-6 {
 background: rgba(0, 0, 0, 0.8);
+}#footer {
+	float: left;
+	height: 400px;
+	width: 1300px;
+	background-color: #DFDFDF;
+	border-top-style: solid;
+	border-top-color: #999999;
+}
+#footer_logo {
+	float: left;
+	height: 180px;
+	width: 216px;
+}
+#footer_top {
+	float: left;
+	height: 40px;
+	width: 1084px;
+	text-align: center;
+	margin-top: 5px;
+	border-bottom-style: solid;
+	border-bottom-color: #999999;
+}
+.footer_content {
+	font-family: "함초롬돋움", "함초롬돋움 확장", "한컴 고딕", "한컴산뜻돋움";
+	font-size: 18px;
+	color: #666;
+}
+#footer_main {
+	float: none;
+	height: 180px;
+	width: 1084px;
+	margin-left: 216px;
+	margin-top: 0px;
+}
+#footer_main1 {
+	float: left;
+	height: 131px;
+	width: 600px;
+}
+p {
+	font-family: "함초롬돋움", "함초롬돋움 확장", "한컴 고딕", "한컴산뜻돋움";
+	color: #999999;
+	font-weight: bold;
+	text-align: center;
+}
+#footer_main2 {
+	float: right;
+	height: 131px;
+	width: 484px;
+}
+m {
+	font-family: "함초롬돋움", "함초롬돋움 확장", "한컴 고딕", "한컴산뜻돋움";
+	color: #333;
+}
+#footer_image {
+	float: left;
+	height: 176px;
+	width: 1300px;
+}
+.m {
+	text-align: center;
+	font-family: "함초롬돋움", "함초롬돋움 확장", "한컴 고딕", "한컴산뜻돋움";
+	font-weight: bold;
+	font-size: 18px;
 }

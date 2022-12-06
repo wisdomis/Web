@@ -1,0 +1,77 @@
+@charset "utf-8";
+#wrap {
+	float: none;
+	height: auto;
+	width: 1300px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#page_logo {
+	clear: both;
+	height: 135px;
+	width: 462px;
+	margin-left: 400px;
+	margin-top: 100px;
+}
+#page_header {
+	float: left;
+	height: 50px;
+	width: 700px;
+	margin-top: 50px;
+	margin-left: 300px;
+	font-size: 36px;
+	font-family: "함초롬돋움", "함초롬돋움 확장", "한컴 고딕", "한컴산뜻돋움";
+	font-style: normal;
+	border-bottom-style: solid;
+	border-bottom-color: #2E2F50;
+	font-weight: bold;
+}
+#registerbox {
+	float: left;
+	height: 710px;
+	width: 500px;
+	margin-left: 400px;
+	margin-top: 100px;
+	text-align: center;
+}
+td {
+	font-weight: bold;
+	font-family: "함초롬돋움", "함초롬돋움 확장", "한컴 고딕", "한컴산뜻돋움";
+	text-align: center;
+}
+th {
+	font-family: "함초롬돋움", "함초롬돋움 확장", "한컴 고딕", "한컴산뜻돋움";
+	text-align: center;
+}
+p {
+	font-size: 14px;
+}
+#footer {
+	float: left;
+	height: 30px;
+	width: 100%;
+	text-align: center;
+	font-family: "함초롬돋움", "함초롬돋움 확장", "한컴 고딕", "한컴산뜻돋움";
+	font-size: 16px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #F0F0F0;
+	border-right-color: #F0F0F0;
+	border-bottom-color: #F0F0F0;
+	border-left-color: #F0F0F0;
+}
+#footer {
+	font-family: "함초롬돋움", "함초롬돋움 확장", "한컴 고딕", "한컴산뜻돋움";
+}
+#join {
+	font-family: "함초롬돋움", "함초롬돋움 확장", "한컴 고딕", "한컴산뜻돋움";
+	background-color: #0078D7;
+	height: 40px;
+	width: 400px;
+	font-size: 18px;
+	color: #FFF;
+}
+#banner {
+	height: 40px;
+	width: 100%;
+}

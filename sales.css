@@ -1,0 +1,109 @@
+@charset "utf-8";
+#wrap {
+	float: none;
+	height: auto;
+	width: 1300px;
+}
+#page_logo {
+	height: 135px;
+	width: 462px;
+	margin-top: 0px;
+	margin-left: 419px;
+}
+#menu {
+	float: left;
+	height: 65px;
+	width: 1300px;
+	margin-bottom: 0px;
+}
+#main {
+	float: left;
+	height: 900px;
+	width: 1300px;
+}
+#purchase {
+	font-family: "함초롬돋움", "함초롬돋움 확장", "한컴 고딕", "한컴산뜻돋움";
+	font-size: 16px;
+	color: #FFF;
+	background-color: #199DB3;
+	height: 50px;
+	width: 200px;
+}
+#cartbutton {
+	font-family: "함초롬돋움", "함초롬돋움 확장", "한컴 고딕", "한컴산뜻돋움";
+	font-size: 16px;
+	color: #FFF;
+	background-color: #196AB3;
+	height: 50px;
+	width: 200px;
+}
+
+
+#book_info {
+	float: left;
+	height: 830px;
+	width: 600px;
+	margin-top: 50px;
+	margin-right: 350px;
+	margin-left: 350px;
+}
+#footer {
+	float: left;
+	height: 400px;
+	width: 1300px;
+	background-color: #DFDFDF;
+	font-family: "함초롬돋움", "함초롬돋움 확장", "한컴 고딕", "한컴산뜻돋움";
+	border-top-style: solid;
+	border-top-color: #999999;
+}
+#footer_logo {
+	float: left;
+	height: 180px;
+	width: 216px;
+}
+#footer_top {
+	float: left;
+	height: 40px;
+	width: 1084px;
+	margin-top: 5px;
+	text-align: center;
+	font-family: "함초롬돋움", "함초롬돋움 확장", "한컴 고딕", "한컴산뜻돋움";
+	font-size: 18px;
+	color: #666;
+	border-bottom-style: solid;
+	border-bottom-color: #999999;
+}
+#footer_main {
+	float: none;
+	height: 180px;
+	width: 1084px;
+	margin-top: 0px;
+	margin-left: 216px;
+}
+#footer_main2 {
+	float: right;
+	height: 131px;
+	width: 484px;
+}
+#footer_main1 {
+	float: left;
+	height: 131px;
+	width: 600px;
+	color: #666;
+	text-align: center;
+	font-family: "함초롬돋움", "함초롬돋움 확장", "한컴 고딕", "한컴산뜻돋움";
+	font-weight: bold;
+}
+#footer_image {
+	float: left;
+	height: 176px;
+	width: 1300px;
+}
+.m {
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+}
+.m {
+	text-align: center;
+}
